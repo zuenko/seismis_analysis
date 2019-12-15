@@ -1,0 +1,4 @@
+background:0,0,0
+faults:128,0,0
+channels:0,128,0
+AmplitudeAnomaly:128,128,0
